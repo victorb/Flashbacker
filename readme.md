@@ -1,22 +1,17 @@
-# [Laravel](http://laravel.com) Quickstart for [Pagodabox](https://pagodabox.com/)
+# Flashbacker
 
-Get a copy of Laravel running on Pagodabox in seconds.
+Flashbacker är ett webbaserat spel gjort av flashbackare, för flashbackare. Det är helt kostnadsfritt ( och kommer även att vara i framtiden ) och byggs av medlemmar från Flashback Forum enbart för underhållningens skull.
 
-Based on the Boxfile method from: http://forums.laravel.com/viewtopic.php?id=890
+# Användning
 
-[Official Laravel Website & Documentation](http://laravel.com)
+- Klona arkivet från Github
+- Gör en virtual host
+- Öppna webbläsaren och gå till den virtuella hosten
 
-[Official Pagodabox Website & Documentation](https://pagodabox.com/)
+# Hjälp
 
-## Usage
+Vi använder ramverket Laravel för att inte uppfinna hjulet på nytt. Ett par hjälpsamma länkar för ramverket finner du nedanför.
 
-- Install the quickstart on Pagodabox
-- Clone the repo on your machine
-- Open up Boxfile and modify the web1 name
-
-``web1:
-  name: YOUR_APP_NAME``
-
-## Features
-
-- Laravel 3.2.5
+- [Laravel 3 dokumentation](http://laravel.com/docs)
+- [Laravel 3 hemsida](http://laravel.com/)
+- [Introduktionskurs på engelska](http://codehappy.daylerees.com/)
